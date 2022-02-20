@@ -9,5 +9,4 @@
 <!-- Usage: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanjiteng&show_icons=true&hide_border=true)](https://github.com/yuanjiteng)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanjiteng&layout=compact)](https://github.com/yuanjiteng?tab=repositories)
 </div>
